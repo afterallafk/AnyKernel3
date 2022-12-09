@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sinsperf
+kernel.string=SinsPerf
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=onc
-device.name2=onclite
+device.name1=sweet
+device.name2=sweetin
 device.name3=
 device.name4=
 device.name5=
