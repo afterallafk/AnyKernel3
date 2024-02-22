@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SinsPerf
+kernel.string=ZeloKernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
